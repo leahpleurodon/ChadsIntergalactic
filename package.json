@@ -1,0 +1,17 @@
+{
+  "name": "chads-intergallactic",
+  "version": "1.0.0",
+  "description": "Chads integallactic delivery app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leah Eramo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}

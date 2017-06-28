@@ -1,0 +1,2 @@
+tracking_number, sender_name, sender_address, sender_planet, sender_system, destination_name, destination_address, destination_planet, destination_system, number_of_packages, spacetruck_id
+1234, Joe Smith, "209 Kent St, Sydney NSW 2000 Australia", Earth, Sol, Elon Musk, "1 Tesla St, SpaceX, EL", Elon, Sol, 2, XVF123
